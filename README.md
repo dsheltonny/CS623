@@ -1,1 +1,1 @@
-# CS623
+# CS623 this is our programming project
